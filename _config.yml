@@ -1,3 +1,7 @@
+title: "Dr. Mahesh Kumar Meena"
+name: "Dr. Mahesh Kumar Meena"
+description: "Assistant Professor, Department of Mass Communication and Media Studies, Central University of Punjab"
+url: "https://maheshfilmwaala.github.io"
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -24,11 +28,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr Mahesh Kumar Meena"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor, Dept. of Mass Communication & Media Studies"
+  location         : "Bathinda, Punjab, India"
+  employer         : "Central University of Punjab"
   uri              : # URL
   email            : "none@example.org" 
 
